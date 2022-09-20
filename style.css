@@ -2,20 +2,21 @@ body {
  margin-top: 50px;
  font-family: 'Lato', sans-serif;
     color: white;
-    font-size: 25px;
+    font-size: 5px;
   }
   .main-header {
-   background-image: url(imgs/world.jpg);
+    font-family: 'Cinzel', serif;
+   background-image: url(imgs/background.jpg);
    background-position: center ;
    background-size:cover ;
-   height: 90vh;
-   padding-top: 50vh;
-   padding left: 25vh;
+   height: 50vh;
+   font-size: 90px;
+   text-align: center;
+   letter-spacing: 10px;
   }
-  h1
-{text-align: center;}
+  h1 {
+    padding-top: 40vh;
+  }
   .background {
     background-image: url();
-    padding: 10px 5px;
   }
-  
