@@ -1,10 +1,14 @@
 body {
-    background-color: white;
-    color: black;
+ margin-top: 50px;
+ font-family: 'Lato', sans-serif;
+    color: white;
     font-size: 25px;
   }
   .main-header {
-    color: black;
+   background-image: url(imgs/world.jpg);
+   background-position: center ;
+   background-size:cover ;
+   height: 90vh;
   }
   h1
 {text-align: center;}
