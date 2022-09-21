@@ -1,8 +1,9 @@
 body {
   margin-top: 50px;
-  font-family: 'Lato', sans-serif;
+  font-family:Helvetica;
   color: black;
-  font-size: 15px;
+  font-size: 16px;
+  font-weight: 500;
   }
 .main-header {
   font-family: 'Cinzel', serif;
@@ -27,6 +28,13 @@ h1 {
   left: 75%;
   margin-left: 50px;
 }
-h2,h3 {
+.sub-header {
   font-weight: 700;
 }
+.boxed {
+  border:1px solid white;
+  box-sizing: content-box;
+  width: 670px;
+  line-height: 1.6; 
+}
+
