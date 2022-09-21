@@ -1,10 +1,9 @@
 body {
  margin-top: 50px;
  font-family: 'Lato', sans-serif;
-    color: white;
-    font-size: 5px;
   }
   .main-header {
+    color: white;
     font-family: 'Cinzel', serif;
    background-image: url(imgs/background.jpg);
    background-position: center ;
@@ -14,18 +13,12 @@ body {
    text-align: center;
    letter-spacing: 10px;
   }
+  .subheader {
+    color: black;
+  }
   h1 {
     padding-top: 40vh;
   }
   .background {
     background-image: url();
   }
-  .line {
-  margin-top: 300px;
-  color:black ;
-  }
-  .div1 {
-    width: 300px;
-    height: 100px;
-    border: 1px solid blue;
-    box-sizing: border-box;
