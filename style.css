@@ -1,24 +1,32 @@
 body {
- margin-top: 50px;
- font-family: 'Lato', sans-serif;
+  margin-top: 50px;
+  font-family: 'Lato', sans-serif;
+  color: black;
+  font-size: 15px;
   }
-  .main-header {
-    color: white;
-    font-family: 'Cinzel', serif;
-   background-image: url(imgs/background.jpg);
-   background-position: center ;
-   background-size:cover ;
-   height: 50vh;
-   font-size: 90px;
-   text-align: center;
-   letter-spacing: 10px;
-  }
-  .subheader {
-    color: black;
-  }
-  h1 {
-    padding-top: 40vh;
-  }
-  .background {
-    background-image: url();
-  }
+.main-header {
+  font-family: 'Cinzel', serif;
+  color: white;
+  background-image: url(imgs/background.jpg);
+  background-position: center ;
+  background-size:cover ;
+  height: 50vh;
+  font-size: 90px;
+  text-align: center;
+  letter-spacing: 10px;
+}
+h1 {
+  padding-top: 40vh;
+}
+.background {
+  background-image: url();
+}
+.line {
+  height: 500px;
+  position: absolute;
+  left: 75%;
+  margin-left: 50px;
+}
+h2,h3 {
+  font-weight: 700;
+}
