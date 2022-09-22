@@ -31,11 +31,12 @@ h1 {
 
 .sub-header {
   font-weight: 700;
+ padding-left: 600px;
 }
 h2 {
   font-size: 30px;
   float: right;
-  padding-right: 650px;
+  padding-right: 669px;
 }
 .boxed {
   border:1px solid white;
@@ -44,7 +45,8 @@ h2 {
   line-height: 1.6; 
   float: right;
   padding-right: 650px;
-  padding-bottom: 40px;
-
+}
+img {
+  border-radius: 5px;
 }
 
