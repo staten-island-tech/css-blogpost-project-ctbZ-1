@@ -28,15 +28,9 @@ h1 {
   left: 75%;
   margin-left: 50px;
 }
-
-.sub-header {
-  font-weight: 700;
- padding-left: 600px;
-}
-h2 {
+h2,.sub-header {
   font-size: 30px;
-  float: right;
-  padding-right: 669px;
+  padding-left: 563px;
 }
 .boxed {
   border:1px solid white;
@@ -45,9 +39,16 @@ h2 {
   line-height: 1.6; 
   float: right;
   padding-right: 650px;
+  padding-bottom: 20px;
 }
 img {
   border-radius: 5px;
-  width: 600px;
+  width: 670px;
+  display: block;
+  margin: auto 565px;
+  padding-bottom: 20px;
 }
-
+.container {
+  box-sizing: content-box;
+  width: 670px;
+}
