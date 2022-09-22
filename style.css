@@ -2,7 +2,7 @@ body {
   margin-top: 50px;
   font-family:Helvetica;
   color: black;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 500;
   }
 .main-header {
@@ -28,13 +28,23 @@ h1 {
   left: 75%;
   margin-left: 50px;
 }
+
 .sub-header {
   font-weight: 700;
+}
+h2 {
+  font-size: 30px;
+  float: right;
+  padding-right: 650px;
 }
 .boxed {
   border:1px solid white;
   box-sizing: content-box;
   width: 670px;
   line-height: 1.6; 
+  float: right;
+  padding-right: 650px;
+  padding-bottom: 40px;
+
 }
 
