@@ -2,7 +2,7 @@ body {
   margin-top: 50px;
   font-family:Helvetica;
   color: black;
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 500;
   }
 .main-header {
@@ -25,30 +25,31 @@ h1 {
 .line {
   height: 500px;
   position: absolute;
-  left: 75%;
+  left: 80%;
   margin-left: 50px;
 }
 h2,.sub-header {
-  font-size: 30px;
-  padding-left: 563px;
+  font-size: 35px;
+  padding-left: 550px;
 }
-.boxed {
+.container {
   border:1px solid white;
   box-sizing: content-box;
-  width: 670px;
+  width: 800px;
   line-height: 1.6; 
   float: right;
-  padding-right: 650px;
+  margin-right: 535px;
+  
   padding-bottom: 20px;
 }
 img {
   border-radius: 5px;
-  width: 670px;
+  width: 800px;
   display: block;
-  margin: auto 565px;
+  margin: auto 550px;
   padding-bottom: 20px;
 }
-.container {
-  box-sizing: content-box;
-  width: 670px;
+span {
+  font-weight: bold;
 }
+
