@@ -30,25 +30,22 @@ h1 {
 }
 h2,.sub-header {
   font-size: 35px;
-  padding-left: 563px;
+  padding-left: 550px;
 }
-.boxed {
+.container {
   border:1px solid white;
   box-sizing: content-box;
-  width: 750px;
+  width: 800px;
   line-height: 1.6; 
   float: right;
-  padding-right: 670px;
+  padding-right: 550px;
   padding-bottom: 20px;
 }
 img {
   border-radius: 5px;
-  width: 670px;
+  width: 800px;
   display: block;
-  margin: auto 565px;
+  margin: auto 550px;
   padding-bottom: 20px;
 }
-.container {
-  box-sizing: content-box;
-  width: 670px;
-}
+
