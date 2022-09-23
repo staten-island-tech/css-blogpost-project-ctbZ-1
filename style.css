@@ -38,7 +38,8 @@ h2,.sub-header {
   width: 800px;
   line-height: 1.6; 
   float: right;
-  padding-right: 550px;
+  margin-right: 535px;
+  
   padding-bottom: 20px;
 }
 img {
